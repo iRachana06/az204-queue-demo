@@ -9,7 +9,7 @@ import java.util.List;
 
 public class Recievedmsg {
 
-    static String connectionString = "Endpoint=sb://az-204demosb.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=sr8n6v+sCIFSCHGYb3lKwCON0WMIVluA5CP8oVO2VEc=";
+    static String connectionString = "<Primary Connection String of Queue>";
     static String queueName = "az204-demoqueue";
 
     // handles received messages
